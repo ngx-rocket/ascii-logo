@@ -1,6 +1,6 @@
 {
   "name": "@ngx-rocket/ascii-logo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Super-awesome ngX-Rocket ASCII logo",
   "repository": "ngx-rocket/ascii-logo",
   "main": "index.js",
