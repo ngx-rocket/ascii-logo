@@ -22,7 +22,9 @@ npm install -g @ngx-rocket/ascii-logo
 const asciiLogo = require('@ngx-rocket/ascii-logo');
 const pkg =  require('./package.json');
 
+console.log(asciiLogo());
 console.log(asciiLogo(pkg.version));
+console.log(asciiLogo(pkg.version, 'My awesome title'));
 ```
 
 # License
